@@ -1,0 +1,22 @@
+PODS:
+  - MarkdownKit (1.7.1)
+
+DEPENDENCIES:
+  - MarkdownKit (from `https://github.com/bmoliveira/MarkdownKit`, commit `4270b02490752f5c224de790764465faf552ec63`)
+
+EXTERNAL SOURCES:
+  MarkdownKit:
+    :commit: 4270b02490752f5c224de790764465faf552ec63
+    :git: https://github.com/bmoliveira/MarkdownKit
+
+CHECKOUT OPTIONS:
+  MarkdownKit:
+    :commit: 4270b02490752f5c224de790764465faf552ec63
+    :git: https://github.com/bmoliveira/MarkdownKit
+
+SPEC CHECKSUMS:
+  MarkdownKit: 0b15195c63cf3e39387949c4bdeccde0055e252a
+
+PODFILE CHECKSUM: 4b4a75a73d804345e506a0b19a1f20aa4598b5ee
+
+COCOAPODS: 1.10.1
